@@ -29,7 +29,7 @@
 ---
 
 ## 🔥 Currently Grinding
-- 📚 **Upskilling**: Master of Information Systems @ UP Open University  
+- 📚 **Upskilling**: Master of Information Systems @ University of the Philippines
 - 💻 **Hacking**: MERN stack projects, cloud deployments, and CI/CD pipelines  
 - 🧩 **Building**: Scalable RESTful APIs and responsive UIs with React & Tailwind  
 - 📊 **Stats**: Code > Hype (Focus mode on, distractions off)  
